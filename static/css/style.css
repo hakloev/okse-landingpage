@@ -1,0 +1,33 @@
+html, body {
+    min-width: 820px;
+    min-height: 640px;
+    margin: 0;
+    padding: 0;
+    background: #FFF;
+}
+
+.logo {
+    padding-top: 8%;
+    padding-bottom: 5%;
+}
+
+.icon-size { 
+    width: 128px;
+    height: 128px;
+}
+
+.icon-size-long {
+    width: 192px;
+    height: 96px;
+}
+
+.list-inline {
+    height: 140px;
+}
+
+.list-inline > li {
+    text-align: center;
+    height: 100%;
+    padding: 0 10px;
+    padding-bottom: 5px;
+}
